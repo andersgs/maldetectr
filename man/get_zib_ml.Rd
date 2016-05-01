@@ -21,7 +21,7 @@ function.
 }
 \examples{
 data <- maldetectr::sim_zib_data( n_sites = 10, n_samples = 5, p_oc = 0.2, p_dt = 0.8 )
-get_zib_ml( data = data, ci = 0.95 )
+maldetectr::get_zib_ml( data = data, ci = 0.95 )
 
 }
 \seealso{

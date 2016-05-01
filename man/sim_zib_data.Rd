@@ -24,6 +24,6 @@ A data.frame of simulated data with \code{n_sites} rows and three columns. An \c
 Simulate zero-inflated binomial data
 }
 \examples{
-sim_zib_data( n_sites = 10, n_samples = 5, p_oc = 0.2, p_dt = 0.8 )
+maldetectr::sim_zib_data( n_sites = 10, n_samples = 5, p_oc = 0.2, p_dt = 0.8 )
 }
 
