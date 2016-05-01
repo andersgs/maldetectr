@@ -1,6 +1,6 @@
 Package: maldetectr
 Title: Detect Malaria Parasites Using Site Occupancy Models
-Version: 0.0.0.9000
+Version: 0.1
 Authors@R: person("Anders", "Goncalves da Silva", email = "andersgs@gmail.com", role = c("aut", "cre"))
 Description: maldetectr implements site occupancy models for malaria detection
 Depends:
