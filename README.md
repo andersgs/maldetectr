@@ -26,7 +26,7 @@ Maximum likelihood estimate using a zero-inflated binomial model.
     p_detection <- 0.8 # probability of test detecting malaria given that individual
                        # has malaria
     data <- maldetectr::sim_zib_data( n_sites = n_sites, 
-                                      n_samples = n_tests, 
+                                      n_samples = n_samples, 
                                       p_oc = p_occupancy, 
                                       p_dt = p_detection, 
                                       seed = 42 )
