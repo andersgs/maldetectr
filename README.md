@@ -8,7 +8,7 @@ Install `devtools`:
 
 Install package:
 
-    devtools::install_git( "andersgs/maldetectr" )
+    devtools::install_github( "andersgs/maldetectr" )
 
 ## Current version
 
